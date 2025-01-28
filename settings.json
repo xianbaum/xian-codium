@@ -1,0 +1,9 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "tabby.endpoint": "http://192.168.2.6:8085",
+    "workbench.colorTheme": "Dracula Theme Soft",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
+}
